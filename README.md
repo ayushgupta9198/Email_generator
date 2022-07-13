@@ -5,9 +5,3 @@ _____
 * Clone & Download this repo
 * Install streamlit by using **pip install streamlit** and openai by using **pip install openai**
 * In the project folder, open a terminal and enter **streamlit run emailapp.py**
-
-## Business Benefits and Usecases:
-* Time saved writing medium-long sized emails
-* Anxiety of writing a **professional sounding** email is removed as the GPT3 Language model used is trained from a variety of many different internet sources
-* Mental energy is conserved
-
